@@ -14,7 +14,7 @@ namespace FormTestOtoCare
 
         private static string dataSourceBaseAlternateClass, language;
 
-        private static int waitSeconds;
+        private static int waitSeconds; 
 
         public iOSAction()
         {
